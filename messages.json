@@ -1,0 +1,38 @@
+{
+    "en": {
+        "welcome": "Welcome to the Hugging Face model downloader!",
+        "enter_api": "Enter your Hugging Face API token ('q' to quit): ",
+        "cached_token": "Using cached token.",
+        "success_login": "Successfully logged in to Hugging Face.",
+        "invalid_token": "Invalid token. Please try again.",
+        "exit_message": "Exiting...",
+        "input_interrupted": "Input interrupted. Exiting...",
+        "search_prompt": "Enter the model name to search ('q' to quit): ",
+        "download_start": "Downloading {model_id}...",
+        "download_success": "Model {model_id} downloaded successfully.",
+        "download_cancel": "Download cancelled by user.",
+        "model_not_found": "No models found for '{query}'.",
+        "invalid_choice": "Invalid choice. Please enter a valid number.",
+        "cancel_option": "Cancel and search again",
+        "cancel_search": "Search cancelled. You can enter a new query.",
+        "prompt_choice": "Select a model number (0 - {max}) or 'q' to quit: "
+    },
+    "tr": {
+        "welcome": "Hugging Face model indirme aracına hoş geldiniz!",
+        "enter_api": "Hugging Face API anahtarınızı girin ('q' ile çıkış yapın): ",
+        "cached_token": "Önceden kaydedilmiş token kullanılıyor.",
+        "success_login": "Hugging Face'e başarıyla giriş yapıldı.",
+        "invalid_token": "Geçersiz token. Lütfen tekrar deneyin.",
+        "exit_message": "Çıkış yapılıyor...",
+        "input_interrupted": "Giriş kesildi. Çıkış yapılıyor...",
+        "search_prompt": "Aramak istediğiniz modelin adını girin ('q' ile çıkış yapın): ",
+        "download_start": "{model_id} indiriliyor...",
+        "download_success": "{model_id} başarıyla indirildi.",
+        "download_cancel": "İndirme işlemi kullanıcı tarafından iptal edildi.",
+        "model_not_found": "'{query}' için model bulunamadı.",
+        "invalid_choice": "Geçersiz seçim. Lütfen geçerli bir numara girin.",
+        "cancel_option": "Vazgeç ve yeniden ara",
+        "cancel_search": "Arama iptal edildi. Yeni bir arama yapabilirsiniz.",
+        "prompt_choice": "Model numarasını seçin (0 - {max}) veya 'q' ile çıkın: "
+    }
+}
